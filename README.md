@@ -1,1 +1,1 @@
-Assets intended for direct use in applications.
+Our Brandings and Logos.
